@@ -71,3 +71,5 @@ package-lock.json
 # Local Dev Env
 out/
 .local/
+
+.DS_Store/
