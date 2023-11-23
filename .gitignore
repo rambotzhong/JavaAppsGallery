@@ -72,4 +72,7 @@ package-lock.json
 out/
 .local/
 
-.DS_Store/
+# ds_store
+**/.DS_Store
+
+
